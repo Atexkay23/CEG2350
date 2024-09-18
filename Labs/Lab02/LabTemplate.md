@@ -5,7 +5,7 @@
 
 ## Part 1 Answers
 
-1. Command & steps to create an SSH key pair:
+1. Command & steps to create an SSH key pair: 
 2. Steps to add public key to GitHub profile:
 3. git command to clone repository: 
 
